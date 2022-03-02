@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.exe
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.deps.json
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.runtimeconfig.json
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.dll
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\ref\StackOverFlowPost.dll
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\bin\Debug\net6.0\StackOverFlowPost.pdb
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.AssemblyInfo.cs
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.dll
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\ref\StackOverFlowPost.dll
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.pdb
+C:\Users\bruno\Desktop\dotnetLearning\StackOverFlowPost\obj\Debug\net6.0\StackOverFlowPost.genruntimeconfig.cache
