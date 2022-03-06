@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.AssemblyInfo.cs
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\FakeDatabase.exe
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\FakeDatabase.deps.json
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\FakeDatabase.runtimeconfig.json
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\FakeDatabase.dll
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\ref\FakeDatabase.dll
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\bin\Debug\net6.0\FakeDatabase.pdb
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.dll
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\ref\FakeDatabase.dll
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.pdb
+C:\Users\bruno\Desktop\dotnetLearning\FakeDatabase\obj\Debug\net6.0\FakeDatabase.genruntimeconfig.cache
