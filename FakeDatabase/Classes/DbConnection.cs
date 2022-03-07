@@ -3,12 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FakeDatabase
+namespace FakeDatabase.Classes
 {
     public abstract class DbConnection
     {
         public string ConnectionString { get; set; }
         public TimeSpan Timeout { get; private set; }
+        public bool Connected = false;
 
         public DbConnection()
         {

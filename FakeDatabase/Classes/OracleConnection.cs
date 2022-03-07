@@ -3,11 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace FakeDatabase
+namespace FakeDatabase.Classes
 {
-    public class SqlConnection : DbConnection
+    public class OracleConnection : DbConnection
     {
-        public SqlConnection(string connectionString)
+        public OracleConnection(string connectionString)
         {
             if( string.IsNullOrEmpty(connectionString) )
                 throw new InvalidOperationException("You should pass a valid connection string!");
@@ -15,7 +15,7 @@ namespace FakeDatabase
             ConnectionString = connectionString;
         }
 
-        
+
         public override void Open()
         {
             using( var cts = new CancellationTokenSource( Timeout ) )
@@ -23,7 +23,8 @@ namespace FakeDatabase
                 cts.Token.Register(() => { throw new TimeoutException(); });
                 while(!cts.IsCancellationRequested)
                 {
-                    System.Console.WriteLine("Connected do SQL Database.");
+                    Connected = true;
+                    System.Console.WriteLine("Connected to Oracle Database.");
                     break;
                 }
             }
@@ -31,6 +32,10 @@ namespace FakeDatabase
 
         public override void Close()
         {
+            if(Connected != true)
+                throw new InvalidOperationException("You are not connected to any database!");
+
+            Connected = false;
             System.Console.WriteLine("Closing connection to SQL Database.");
         }
     }
