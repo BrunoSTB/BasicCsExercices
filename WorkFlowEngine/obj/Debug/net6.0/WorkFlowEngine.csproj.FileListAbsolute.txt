@@ -1,0 +1,15 @@
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\WorkFlowEngine.exe
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\WorkFlowEngine.deps.json
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\WorkFlowEngine.runtimeconfig.json
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\WorkFlowEngine.dll
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\ref\WorkFlowEngine.dll
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\bin\Debug\net6.0\WorkFlowEngine.pdb
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.csproj.AssemblyReference.cache
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.AssemblyInfoInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.AssemblyInfo.cs
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.dll
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\ref\WorkFlowEngine.dll
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.pdb
+C:\Users\bruno\Desktop\dotnetLearning\WorkFlowEngine\obj\Debug\net6.0\WorkFlowEngine.genruntimeconfig.cache
