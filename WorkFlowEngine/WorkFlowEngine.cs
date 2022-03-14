@@ -2,15 +2,19 @@ namespace WorkFlowEngine
 {
     class WorkFlowEngine
     {
-        private readonly IActivity _activity;
-        public WorkFlowEngine(IActivity activity)
+        private readonly IWorkFlow _workFlow;
+        public WorkFlowEngine(IWorkFlow workFlow)
         {
-            _activity = activity;
+            _workFlow = workFlow;
         }
 
         public void Execute()
         {
-            _activity.Run();
+            var Activities = _workFlow.GetActivities();
+            foreach (var activity in Activities)
+            {
+                activity.Run();
+            }            
         }
     }
 }

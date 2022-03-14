@@ -4,10 +4,12 @@
     {
         public static void Main(string[] args)
         {
-            var workFlowEng = new WorkFlowEngine( new ServerScript() );
-            workFlowEng.Execute();
-            workFlowEng = new WorkFlowEngine( new MyScript() );
-            workFlowEng.Execute();
+            var workFlow = new WorkFlow();
+            workFlow.Add( new MyScript() );
+            workFlow.Add( new ServerScript() );
+        
+            var workFlowEngine = new WorkFlowEngine( workFlow );
+            workFlowEngine.Execute(); 
         }
     }
 }
